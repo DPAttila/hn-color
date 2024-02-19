@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "version": "0.0.1",
+  "name": "Hacker News Color Comments",
+  "description": "Hacker News color comments",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://news.ycombinator.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
