@@ -7,4 +7,4 @@ Each username has a color associated with it. (Calculated from the SHA512 hash o
 
 This means comments by the same user will always have the same color, across all threads.
 
-![Example, with usernames hidden](./screenshots/sc1.png)
+![Example, with usernames hidden](screenshots/sc1.png)
